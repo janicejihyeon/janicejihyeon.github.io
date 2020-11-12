@@ -21,7 +21,6 @@ Research Interest
 
 Education
 ======
-* <b>B.S.</b> 
 * <b>B.S.</b> Department of Mathematics, Sungkyunkwan University, 2013.3 - 2018.2
 * <b>B.S.</b> Department of Computer Engineering, Sungkyunkwan University, 2015.3 - 2018.2
 <br/><br/>
