@@ -6,54 +6,42 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+Jihyeon Ryu
+---
+Ph.D. Candidate, Department of Software, Sungkyunkwan University
+<br/><br/>
+
+Research Interest
+======
+* <b>Machine Learning</b>
+* <b>User Authentication</b>
+* <b>Blockchain</b>
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>B.S.</b> 
+* <b>B.S.</b> Department of Mathematics, Sungkyunkwan University, 2013.3 - 2018.2
+* <b>B.S.</b> Department of Computer Engineering, Sungkyunkwan University, 2015.3 - 2018.2
+<br/><br/>
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  <br/>
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+  <br/>
+
+Experience
 ======
-* Currently signed in to 43 different slack teams
+* <b>Develop with Google</b> 2019.1 - 2019.2<br/>
+* [<b>Data 61 / CSIRO student </b> 2020.1 - 2020.8<br/>](https://research.csiro.au/distributed-systems-security/our-alumni/)
+* <b>Korean National Cryptographic Technology Training Course</b> 2019.4 - 2019.11<br/>
