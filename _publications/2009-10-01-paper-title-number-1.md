@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Secure and efficient three-factor protocol for wireless sensor networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-12-18-Sensors
+date: 2018-12-18
+venue: 'Sensors'
+paperurl: 'http://academicpages.github.io/files/secureandefficient.pdf'
+citation: 'Jihyeon Ryu, Hakjun Lee, Hyoungshick Kim, Dongho Won. (2018). &quot;Secure and efficient three-factor protocol for wireless sensor networks.&quot; <i>Sensors</i>. 18(12).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/secureandefficient.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Jihyeon Ryu, Hakjun Lee, Hyoungshick Kim, Dongho Won. (2018). "Secure and efficient three-factor protocol for wireless sensor networks." <i>Sensors</i>. 18(12).
