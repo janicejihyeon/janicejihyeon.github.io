@@ -15,9 +15,9 @@ Ph.D. Candidate, Department of Software, Sungkyunkwan University
 
 Research Interest
 ======
+* <b>Cyber Security</b>
 * <b>Machine Learning</b>
 * <b>User Authentication</b>
-* <b>Blockchain</b>
 
 Education
 ======
