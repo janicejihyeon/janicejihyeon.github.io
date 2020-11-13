@@ -144,7 +144,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
-  #- vendor
+  - vendor
   #- [vendor]
 keep_files:
   - .git
