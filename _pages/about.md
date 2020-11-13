@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [Ph.D. candidate in Information Security Group (ISG)](http://security.re.kr/) at Sungkyunkwan University, where I am advised by [Prof. Dongho Won](http://security.re.kr/index.php?mid=Professor) and [Hyoungshick Kim](https://seclab.skku.edu/people/hyoungshick-kim/). I received my B.S. in Mathematic and Computer Science from Sungkyunkwan University. My research interests include Cyber Security, Machine Learning, and User Authentication. 
+I'm a [Ph.D. candidate in Information Security Group (ISG)](http://security.re.kr/) at Sungkyunkwan University, where I am advised by [Prof. Dongho Won](http://security.re.kr/index.php?mid=Professor) and [Prof. Hyoungshick Kim](https://seclab.skku.edu/people/hyoungshick-kim/). I received my B.S. in Mathematic and Computer Science from Sungkyunkwan University. My research interests include Cyber Security, Machine Learning, and User Authentication. 
 
 ---
 
