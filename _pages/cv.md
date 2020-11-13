@@ -32,7 +32,7 @@ Publications
   {% endfor %}</ul>
   <br/>
 
-Teaching
+Teaching Assistant
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
