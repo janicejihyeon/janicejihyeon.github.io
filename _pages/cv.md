@@ -46,3 +46,11 @@ Experience
 * [<b>Data 61 / CSIRO student </b> 2020.1 - 2020.8<br/>](https://research.csiro.au/distributed-systems-security/our-alumni/)
 * <b>Korean National Cryptographic Technology Training Course</b> 2019.4 - 2019.11<br/>
 
+
+Honors and Awards
+======
+* <b>Samsung Science Scholarship (full tuition)</b> 2013.3 - 2018.2<br/>
+* <b>Software Department Excellence Research Awards Grand Prize</b> 2019.2<br/>
+* <b>Graduate Merit Scholarship</b> 2018.3 - present<br/>
+* <b>SimSan Scholarship</b> 2018.3, 2018.9, 2019.3, 2019.9, 2020.3<br/>
+
