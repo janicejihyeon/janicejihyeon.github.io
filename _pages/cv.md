@@ -21,6 +21,7 @@ Research Interest
 
 Education
 ======
+* Sejong Science High School (Early graduation), 2011.3 - 2013.2
 * <b>B.S.</b> Department of Mathematics, Sungkyunkwan University, 2013.3 - 2018.2
 * <b>B.S.</b> Department of Computer Engineering, Sungkyunkwan University, 2015.3 - 2018.2
 <br/><br/>
