@@ -52,6 +52,7 @@ Honors and Awards
 ======
 * <b>Samsung Science Scholarship (full tuition)</b> 2013.3 - 2018.2<br/>
 * <b>Software Department Excellence Research Awards Grand Prize</b> 2019.2<br/>
+* <b>Software Department Excellence Research Awards Excellence Prize</b> 2021.2<br/>
 * <b>Graduate Merit Scholarship</b> 2018.3 - present<br/>
-* <b>SimSan Scholarship</b> 2018.3, 2018.9, 2019.3, 2019.9, 2020.3<br/>
+* <b>SimSan Scholarship</b> 2018.3, 2018.9, 2019.3, 2019.9, 2020.3, 2020.9<br/>
 
