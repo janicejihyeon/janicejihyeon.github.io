@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Jihyeon Ryu"
-  pronouns         : # example: "she/her" 
-  bio              : "Assistant Professor School of Computer and Information Engineering"
+  pronouns         : "Assistant Professor" 
+  bio              : "School of Computer and Information Engineering"
   employer         : "Kwangwoon University"
   uri              : # URL
   email            : "jhryu@kw.ac.kr"
