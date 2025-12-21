@@ -29,7 +29,7 @@ Invited Talk
 * 정보보호학회, 2024 정보보호인을 위한 기술세미나 및 소통DAY 멘토, 2024.8.30 [Link](https://kiisc.or.kr/bbs/pe/article/3727)
 * 2024학년도 광운대학교와 함께하는 SW/AI 재능기부 강좌, 인공지능과 보안, 2024.9.30 [Link](https://www.kw.ac.kr/ko/life/notice.jsp?BoardMode=view&DUID=47520&tpage=1&searchKey=1&searchVal=%EC%9E%AC%EB%8A%A5%EA%B8%B0%EB%B6%80&srCategoryId=)
 * 정보처리학회, Can Differential Privacy Practically Protect Collaborative Deep Learning Inference for IoT? 2023.11.3 [Link](https://www.manuscriptlink.com/society/kips/conference/ack2023/programInform)
-* 정신여자고등학교 희망직업인과의 만남 초청강사, 2025.11.26, 2023.11.24
+* 정신여자고등학교 희망직업인과의 만남 초청강사, 2023.11.26, 2021.11.24
 
 ---
 
