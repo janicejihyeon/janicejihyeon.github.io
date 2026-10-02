@@ -21,7 +21,6 @@ Assistant Professor, School of Computer and Information Engineering, Kwangwoon U
 
 # Education
 
-* Sejong Science High School (Early graduation), 2011.3 - 2013.2
 * **B.S.** Department of Mathematics, Sungkyunkwan University, 2013.3 - 2018.2
 * **B.S.** Department of Computer Engineering, Sungkyunkwan University, 2015.3 - 2018.2
 * **Ph.D.** Department of Computer Science and Engineering, Sungkyunkwan University, 2018.3 - 2023.2
